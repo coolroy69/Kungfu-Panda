@@ -1,0 +1,32 @@
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 150px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration-line: underline;
+  background-color: rgb(250, 182, 56);
+}
+h2{
+  font-family: impact;
+  font-size: 75px;
+  text-align: center;
+  background-color: rgb(250, 182, 56);
+}
+
+h3{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+p{
+  font-family: 'Arial Narrow Bold';
+  font-size: 25px;
+  font-weight:bolder;
+  text-align: center;
+}
+
+.group{
+ 
+  
+}
