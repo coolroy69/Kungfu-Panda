@@ -1,3 +1,9 @@
+
+body{
+  margin: 0;
+  background-color: #282828;
+}
+
 h1{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 150px;
@@ -25,7 +31,12 @@ p{
   font-weight:bolder;
   text-align: center;
 }
-
+main{
+  max-width: 900px;
+  margin: 0 auto; 
+  padding: 20px;
+  text-align: center;
+}
 .group{
  
   
